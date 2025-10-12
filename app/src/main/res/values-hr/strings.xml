@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert">Upozorenje</string>
+    <string name="app_name">Solvay</string>
+    <string name="welcome">Dobrodošli u Solvay aplikaciju</string>
+    <string name="for_your_service">Na usluzi</string>
+    <string name="language">Jezik</string>
+    <string name="you_are_reached_your_start">Stigli ste na početnu točku.</string>
+    <string name="you_are_back_your_start">Vratili ste se na rutu.</string>
+    <string name="you_are_arrived">Stigli ste!</string>
+    <string name="your_name">Vaše ime</string>
+    <string name="first_name">Ime</string>
+    <string name="plate_number">Broj registarske pločice</string>
+    <string name="auftrag_number">Broj narudžbe</string>
+    <string name="register">Registriraj se</string>
+    <string name="nextStop">Sljedeće stajalište</string>
+    <string name="start_nav">Pokreni navigaciju</string>
+    <string name="back">Natrag</string>
+    <string name="active_now">Trenutno aktivno</string>
+    <string name="start">Pokreni</string>
+    <string name="save">Spremi</string>
+    <string name="ok">U redu</string>
+    <string name="location">Lokacija</string>
+    <string name="close">Zatvori</string>
+    <string name="gallery">Galerija</string>
+    <string name="camera">Kamera</string>
+    <string name="open_settings">Otvori postavke</string>
+    <string name="cant_move_next">Nema dostupne rute.</string>
+    <string name="out_of_track">Izvan ste rute</string>
+    <string name="coordinates_not_found">Koordinate sljedećeg stajališta nisu pronađene.</string>
+
+    <!-- Dialog String -->
+    <string name="offroute_title">Izvan rute</string>
+    <string name="are_you_sure_logout">Jeste li sigurni da se želite odjaviti?</string>
+    <string name="offroute_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+    <string name="new_message_title">Nova poruka</string>
+    <string name="logout">Odjava</string>
+    <string name="off_route">Upozorenje o skretanju</string>
+    <string name="move_off_the_route">Skrenuli ste s rute. Molimo vratite se natrag.</string>
+    <string name="new_message_text" translatable="false"></string>
+    <string name="attention_title">Pažnja</string>
+    <string name="attention_text" translatable="false"></string>
+
+    <string name="scan_qr">Skeniraj QR kod</string>
+    <string name="enter_route_key">Ili unesite ključ rute</string>
+    <string name="route_key">Ključ rute</string>
+
+    <string name="auth_error">Sesija je istekla. Molimo prijavite se ponovo.</string>
+    <string name="no_internet_message">Provjerite svoju internetsku vezu.</string>
+    <string name="you_msg_deleted">Izbrisali ste ovu poruku.</string>
+    <string name="noTokenDialogTitle">Pogreška: Nedostaje Mapbox token</string>
+    <string name="noTokenDialogBody">Dodajte svoj Mapbox token u res/values/mapbox_access_token.xml</string>
+    <string name="hello_blank_fragment">Pozdrav prazni fragment</string>
+    <string name="messages">Poruke</string>
+    <string name="oldest">Najstarije</string>
+    <string name="people_groups_messages">osobe, grupe, poruke...</string>
+    <string name="copy">Kopiraj</string>
+    <string name="delete">Izbriši</string>
+    <string name="reply">Odgovori</string>
+    <string name="newest">Najnovije</string>
+    <string name="send_a_message">Pošalji poruku\n</string>
+    <string name="edit_profile">Uredi profil</string>
+    <string name="about_us">O nama</string>
+    <string name="term_amp_conditions"><![CDATA[Uvjeti i odredbe]]></string>
+    <string name="your_e_mail">Vaš e-mail</string>
+    <string name="your_message">Vaša poruka</string>
+    <string name="enter_your_message_here">Unesite svoju poruku ovdje...</string>
+    <string name="send_message">Pošalji poruku</string>
+    <string name="setting">Postavka</string>
+    <string name="next">Sljedeće</string>
+    <string name="sample_document">Primjer dokumenta</string>
+    <string name="ready_for_request">Spreman za zahtjev</string>
+    <string name="fetch_route">Preuzmi rutu</string>
+    <string name="fetch_routes">Preuzmi rute</string>
+    <string name="stop_navigation">Zaustavi navigaciju</string>
+    <string name="start_navigation">Pokreni navigaciju</string>
+    <string name="next_location">Sljedeća\nLokacija</string>
+    <string name="terms_conditions_message">Nebo izgleda plavo zbog raspršenja sunčeve svjetlosti u Zemljinoj atmosferi. Kada sunčeva svjetlost uđe u atmosferu, sudara se s molekulama i česticama koje je raspršuju. Plava svjetlost se više raspršuje zbog kraće valne duljine. Taj fenomen se naziva Rayleighovo raspršenje.</string>
+    <string name="pickupRoutes">Rute preuzimanja</string>
+    <string name="chooseRoute">ili odaberite unaprijed definiranu rutu ispod</string>
+    <string name="editProfile">Uredi profil</string>
+    <string name="terms_conditions">Uvjeti i odredbe</string>
+    <string name="contact_us">Kontaktirajte nas</string>
+
+    <string name="start_chat">Započni razgovor</string>
+    <string name="lets_get_moving">Krenimo!</string>
+    <string name="we_ve_planned_the_best_route_for_you_ntap_below_to_start_navigating">Isplanirali smo najbolju rutu za vas.\nDodirnite ispod za početak navigacije!</string>
+    <string name="you">Vi</string>
+    <string name="today">Danas</string>
+    <string name="unsent">Nije poslano</string>
+    <string name="seen">Viđeno</string>
+    <string name="user_not_found">Korisnik nije pronađen</string>
+    <string name="cancel">Otkaži</string>
+    <string name="its_an_image">To je slika (jpg, png, itd.)</string>
+    <string name="its_a_video">To je videozapis (mp4, avi, itd.)</string>
+    <string name="its_a_pdf">To je PDF datoteka</string>
+    <string name="other_type">Drugi tip</string>
+    <string name="email_required">E-mail je obavezan</string>
+    <string name="enter_valid_email">Unesite ispravnu e-mail adresu</string>
+    <string name="select_language">Odaberite jezik</string>
+    <string name="access_location">Trebamo vašu lokaciju za pružanje navigacije. Molimo omogućite ju u postavkama.</string>
+    <string name="socket_not_connected">Socket nije povezan</string>
+    <string name="socket_connected">Socket je povezan</string>
+    <string name="could_not_create_file">Nije moguće stvoriti datoteku slike</string>
+    <string name="file_size_exceeds">Veličina datoteke prelazi ograničenje od 25 MB</string>
+    <string name="select_a_language">Odaberite jezik</string>
+    <string name="please_enter_your_name">Unesite svoje ime</string>
+    <string name="please_enter_plate_number">Unesite broj registarske pločice</string>
+    <string name="please_enter_auftrag_number">Unesite broj narudžbe</string>
+    <string name="select_a_valid_language">Odaberite važeći jezik</string>
+    <string name="time">11:15</string>
+    <string name="take_me_there">Odvedi me tamo</string>
+    <string name="time9_41">21:41</string>
+    <string name="reached">Stigli</string>
+    <string name="aboutUs_message">Nebo izgleda plavo zbog raspršenja sunčeve svjetlosti u Zemljinoj atmosferi. Kada sunčeva svjetlost uđe u atmosferu, sudara se s molekulama i česticama koje je raspršuju. Plava svjetlost se više raspršuje zbog kraće valne duljine. Taj fenomen se naziva Rayleighovo raspršenje.</string>
+    <string name="dialog_message">Stigli ste na svoje odredište.</string>
+    <string name="show_route">Prikaži rutu</string>
+    <string name="hide_route">Sakrij rutu</string>
+    <string name="something_went_wrong">Nešto je pošlo po zlu!</string>
+    <string name="notifications">Obavijesti</string>
+    <string name="fcm">FCM</string>
+    <string name="check_internet_connection">Provjerite internetsku vezu.</string>
+    <string name="qr_scan_result">Rezultat skeniranja QR koda</string>
+    <string name="please_enter_route_key">Unesite ključ rute</string>
+    <string name="user_canceled">Korisnik je otkazao</string>
+    <string name="missing_permission">Nedostaje dopuštenje</string>
+    <string name="gallery_permission">Solvay treba pristup vašoj galeriji</string>
+
+    <string name="fetching_token_failed">Preuzimanje tokena nije uspjelo</string>
+    <string name="firebase_not_initialized">Firebase nije inicijaliziran</string>
+    <string name="error_getting_fcm_token">Greška pri dobivanju FCM tokena</string>
+
+    <string name="title">Obavijest</string>
+    <string name="attention">Pažnja</string>
+    <string name="admin">administrator</string>
+
+    <string name="notification_channel_name">SolvayAndroidNotificationChannel</string>
+    <string name="notification_channel_description">SolvayAndroidNotificationChannelDescription</string>
+    <string name="notification_detail">notificationDetail</string>
+    <string name="notification_message">message</string>
+    <string name="notification_description">description</string>
+    <string name="notification_type">type</string>
+    <string name="notification_sender">sender</string>
+    <string name="notification_sender_id">_id</string>
+    <string name="notification_sender_name">name</string>
+    <string name="notification_sender_is_online">isOnline</string>
+    <string name="notification_sender_image">image</string>
+    <string name="image">Slika</string>
+    <string name="document">Dokument</string>
+    <string name="audio">Zvuk</string>
+    <string name="enter_email_address">Molimo unesite adresu e-pošte.</string>
+    <string name="video">Video</string>
+    <string name="contract_no">Broj ugovora</string>
+    <string name="this_msg_deleted">Ova poruka je izbrisana.</string>
+    <string name="you_are_out_off_track">Izašli ste s rute</string>
+    <string name="copied">Kopirano u međuspremnik</string>
+    <string name="your_name_length">Vaše ime treba sadržavati najmanje 3 znaka</string>
+    <string name="message">Poruke</string>
+    <string name="proceed">Nastavi</string>
+    <string name="change_langugage_alert_title">Potrebno je ponovno pokretanje aplikacije</string>
+    <string name="change_langugage_alert_text">Promjena jezika će ponovno pokrenuti aplikaciju kako bi se primijenile nove postavke. Želite li nastaviti?</string>
+    <string name="back_online">Ponovno ste online. Možete nastaviti koristiti aplikaciju.</string>
+
+    <string name="move_back_dialog_title">Nespremljene promjene</string>
+    <string name="move_back_dialog_text">Imate nespremljene promjene. Jeste li sigurni da želite izaći bez spremanja?</string>
+    <string name="stay">Ostani</string>
+    <string name="discard">Odbaci</string>
+    <string name="contract_number_edit_disabled">Broj ugovora nije moguće promijeniti nakon što je postavljen.</string>
+    <string name="already_logged_in">Vaš račun je prijavljen na drugom uređaju.</string>
+    <string name="meters">metri</string>
+    <string name="complete">Dovršeno</string>
+    <string name="location_permissions_title">Potrebna dopuštenja za lokaciju</string>
+    <string name="location_permissions_text">Ova aplikacija zahtijeva dopuštenja za lokaciju i GPS za ispravno funkcioniranje. Molimo omogućite ih u Postavkama.</string>
+
+</resources>
+
+

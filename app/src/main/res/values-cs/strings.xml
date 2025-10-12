@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert">Upozorenje</string>
+    <string name="app_name">Solvay</string>
+    <string name="welcome">Vítejte v aplikaci Solvay</string>
+    <string name="for_your_service">K vašim službám</string>
+    <string name="language">Jazyk</string>
+    <string name="you_are_reached_your_start">Dorazili jste na výchozí bod.</string>
+    <string name="you_are_back_your_start">Jste zpět na trase.</string>
+    <string name="you_are_arrived">Dorazili jste!</string>
+    <string name="your_name">Vaše jméno</string>
+    <string name="first_name">Křestní jméno</string>
+    <string name="plate_number">SPZ</string>
+    <string name="auftrag_number">Číslo zakázky</string>
+    <string name="register">Registrovat</string>
+    <string name="nextStop">Další zastávka</string>
+    <string name="start_nav">Zahájit navigaci</string>
+    <string name="back">Zpět</string>
+    <string name="active_now">Nyní aktivní</string>
+    <string name="start">Start</string>
+    <string name="save">Uložit</string>
+    <string name="ok">OK</string>
+    <string name="location">Poloha</string>
+    <string name="close">Zavřít</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera">Fotoaparát</string>
+    <string name="open_settings">Otevřít nastavení</string>
+    <string name="cant_move_next">Žádná dostupná trasa.</string>
+    <string name="out_of_track">Jste mimo trasu</string>
+    <string name="coordinates_not_found">Nelze najít souřadnice další zastávky.</string>
+
+    <!--Dialog String-->
+    <string name="offroute_title">Mimo trasu</string>
+    <string name="are_you_sure_logout">Opravdu se chcete odhlásit?</string>
+    <string name="offroute_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+    <string name="new_message_title">Nová zpráva</string>
+    <string name="logout">Odhlásit se</string>
+    <string name="off_route">Upozornění na odklon</string>
+    <string name="move_off_the_route">Odchýlili jste se od trasy. Prosím, vraťte se zpět.</string>
+    <string name="new_message_text" translatable="false"></string>
+    <string name="attention_title">Pozor</string>
+    <string name="attention_text" translatable="false"></string>
+
+    <string name="scan_qr">Naskenujte QR kód</string>
+    <string name="enter_route_key">Nebo zadejte klíč trasy</string>
+    <string name="route_key">Klíč trasy</string>
+
+    <string name="auth_error">Relace vypršela. Prosím, přihlaste se znovu.</string>
+    <string name="no_internet_message">Zkontrolujte připojení k internetu.</string>
+    <string name="you_msg_deleted">Tuto zprávu jste smazali.</string>
+    <string name="noTokenDialogTitle">Chyba: Chybí Mapbox token</string>
+    <string name="noTokenDialogBody">Přidejte Mapbox token do res/values/mapbox_access_token.xml</string>
+    <string name="hello_blank_fragment">Ahoj prázdný fragment</string>
+    <string name="messages">Zprávy</string>
+    <string name="oldest">Nejstarší</string>
+    <string name="people_groups_messages">lidé, skupiny, zprávy...</string>
+    <string name="copy">Kopírovat</string>
+    <string name="delete">Smazat</string>
+    <string name="reply">Odpovědět</string>
+    <string name="newest">Nejnovější</string>
+    <string name="send_a_message">Odešlete zprávu\n</string>
+    <string name="edit_profile">Upravit profil</string>
+    <string name="about_us">O nás</string>
+    <string name="term_amp_conditions"><![CDATA[Obchodní podmínky]]></string>
+    <string name="your_e_mail">Váš e-mail</string>
+    <string name="your_message">Vaše zpráva</string>
+    <string name="enter_your_message_here">Zadejte svou zprávu zde...</string>
+    <string name="send_message">Odeslat zprávu</string>
+    <string name="setting">Nastavení</string>
+    <string name="next">Další</string>
+    <string name="sample_document">Ukázkový dokument</string>
+    <string name="ready_for_request">připraveno pro požadavek</string>
+    <string name="fetch_route">Načíst trasu</string>
+    <string name="fetch_routes">Načíst trasy</string>
+    <string name="stop_navigation">Zastavit navigaci</string>
+    <string name="start_navigation">Spustit navigaci</string>
+    <string name="next_location">Další \nPoloha</string>
+    <string name="terms_conditions_message">Obloha vypadá modře kvůli rozptylu slunečního světla v atmosféře Země. Když sluneční světlo vstoupí do atmosféry, narazí na malé molekuly a částice, které jej rozptylují. Modré světlo se rozptyluje více, protože má kratší vlnovou délku. Tento jev se nazývá Rayleighův rozptyl.</string>
+    <string name="pickupRoutes">Trasy vyzvednutí</string>
+    <string name="chooseRoute">nebo vyberte naplánovanou trasu ze seznamu níže</string>
+    <string name="editProfile">Upravit profil</string>
+    <string name="terms_conditions">Obchodní podmínky</string>
+    <string name="contact_us">Kontaktujte nás</string>
+
+    <string name="start_chat">Zahájit chat</string>
+    <string name="lets_get_moving">Pojďme na to!</string>
+    <string name="we_ve_planned_the_best_route_for_you_ntap_below_to_start_navigating">Naplánovali jsme pro vás nejlepší trasu.\nKlepněte níže pro zahájení navigace!</string>
+    <string name="you">Vy</string>
+    <string name="today">Dnes</string>
+    <string name="unsent">Neodesláno</string>
+    <string name="seen">Zobrazeno</string>
+    <string name="user_not_found">Uživatel nenalezen</string>
+    <string name="cancel">Zrušit</string>
+    <string name="its_an_image">Je to obrázek (jpg, png atd.)</string>
+    <string name="its_a_video">Je to video (mp4, avi atd.)</string>
+    <string name="its_a_pdf">Je to PDF soubor</string>
+    <string name="other_type">Jiný typ</string>
+    <string name="email_required">E-mail je povinný</string>
+    <string name="enter_valid_email">Zadejte platný e-mail</string>
+    <string name="select_language">Vyberte jazyk</string>
+    <string name="access_location">Potřebujeme přístup k vaší poloze, abychom mohli poskytovat navigaci. Povolte přístup v nastavení.</string>
+    <string name="socket_not_connected">Socket není připojen</string>
+    <string name="socket_connected">Socket připojen</string>
+    <string name="could_not_create_file">Nelze vytvořit soubor pro fotografii</string>
+    <string name="file_size_exceeds">Velikost souboru překračuje limit 25 MB</string>
+    <string name="select_a_language">Vyberte jazyk</string>
+    <string name="please_enter_your_name">Zadejte prosím své jméno</string>
+    <string name="please_enter_plate_number">Zadejte prosím SPZ</string>
+    <string name="please_enter_auftrag_number">Zadejte prosím číslo zakázky</string>
+    <string name="select_a_valid_language">Vyberte platný jazyk</string>
+    <string name="time">11:15</string>
+    <string name="take_me_there">Zaveď mě tam</string>
+    <string name="time9_41">21:41</string>
+    <string name="reached">Dosaženo</string>
+    <string name="aboutUs_message">Obloha vypadá modře kvůli rozptylu slunečního světla v atmosféře Země. Když sluneční světlo vstoupí do atmosféry, narazí na malé molekuly a částice, které jej rozptylují. Modré světlo se rozptyluje více, protože má kratší vlnovou délku. Tento jev se nazývá Rayleighův rozptyl.</string>
+    <string name="dialog_message">Dojeli jste na svou zastávku.</string>
+    <string name="show_route">Zobrazit trasu</string>
+    <string name="hide_route">Skrýt trasu</string>
+    <string name="something_went_wrong">Něco se pokazilo!</string>
+    <string name="notifications">Oznámení</string>
+    <string name="fcm">FCM</string>
+    <string name="check_internet_connection">Zkontrolujte připojení k internetu.</string>
+    <string name="qr_scan_result">Výsledek skenování QR</string>
+    <string name="please_enter_route_key">Zadejte prosím klíč trasy</string>
+    <string name="user_canceled">Uživatel zrušil</string>
+    <string name="missing_permission">Chybějící oprávnění</string>
+    <string name="gallery_permission">Solvay chce přístup k vaší galerii</string>
+
+    <string name="fetching_token_failed">Načtení tokenu selhalo</string>
+    <string name="firebase_not_initialized">Firebase nebyl inicializován</string>
+    <string name="error_getting_fcm_token">Chyba při získávání FCM tokenu</string>
+
+    <string name="title">Oznámení</string>
+    <string name="attention">Pozor</string>
+    <string name="admin">administrátor</string>
+
+    <string name="notification_channel_name">SolvayAndroidNotificationChannel</string>
+    <string name="notification_channel_description">SolvayAndroidNotificationChannelDescription</string>
+    <string name="notification_detail">notificationDetail</string>
+    <string name="notification_message">message</string>
+    <string name="notification_description">description</string>
+    <string name="notification_type">type</string>
+    <string name="notification_sender">sender</string>
+    <string name="notification_sender_id">_id</string>
+    <string name="notification_sender_name">name</string>
+    <string name="notification_sender_is_online">isOnline</string>
+    <string name="notification_sender_image">image</string>
+    <string name="image">Obrázek</string>
+    <string name="document">Dokument</string>
+    <string name="audio">Zvuk</string>
+    <string name="enter_email_address">Zadejte prosím e-mailovou adresu.</string>
+    <string name="video">Video</string>
+    <string name="contract_no">Číslo smlouvy</string>
+    <string name="this_msg_deleted">Tato zpráva byla odstraněna.</string>
+    <string name="you_are_out_off_track">Jste mimo trasu</string>
+    <string name="copied">Zkopírováno do schránky</string>
+    <string name="your_name_length">Vaše jméno by mělo obsahovat alespoň 3 znaky</string>
+    <string name="message">Zprávy</string>
+    <string name="proceed">Pokračovat</string>
+    <string name="change_langugage_alert_title">Je vyžadován restart aplikace</string>
+    <string name="change_langugage_alert_text">Změna jazyka restartuje aplikaci, aby se použilo nové nastavení. Chcete pokračovat?</string>
+    <string name="back_online">Zpět online. Můžete pokračovat v používání aplikace.</string>
+
+    <string name="move_back_dialog_title">Neuložené změny</string>
+    <string name="move_back_dialog_text">Máte neuložené změny. Opravdu chcete odejít bez uložení?</string>
+    <string name="stay">Zůstat</string>
+    <string name="discard">Zahodit</string>
+    <string name="contract_number_edit_disabled">Číslo smlouvy nelze změnit, jakmile bylo nastaveno.</string>
+    <string name="already_logged_in">Váš účet byl přihlášen na jiném zařízení.</string>
+    <string name="meters">metry</string>
+    <string name="complete">Dokončeno</string>
+    <string name="location_permissions_title">Vyžadována oprávnění k poloze</string>
+    <string name="location_permissions_text">Tato aplikace vyžaduje oprávnění k poloze a GPS, aby správně fungovala. Prosím, povolte je v Nastavení.</string>
+
+</resources>
+
+

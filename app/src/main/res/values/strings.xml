@@ -1,0 +1,183 @@
+<resources>
+    <string name="app_name">Solvay</string>
+    <string name="welcome">Welcome To Solvay</string>
+    <string name="for_your_service">Here for your service</string>
+    <string name="language">Language</string>
+    <string name="you_are_reached_your_start">You have reached your starting point.</string>
+    <string name="you_are_back_your_start">You are back on the route.</string>
+    <string name="you_are_arrived">You have arrived!</string>
+    <string name="your_name">Your Name</string>
+    <string name="first_name">First name</string>
+    <string name="plate_number">Plate Number</string>
+    <string name="auftrag_number">Auftrag Number</string>
+    <string name="register">Register</string>
+    <string name="nextStop">Next Stop</string>
+    <string name="complete">Complete</string>
+    <string name="start_nav">Start</string>
+    <string name="back">Back</string>
+    <string name="active_now">Active Now</string>
+    <string name="start">Start</string>
+    <string name="save">Save</string>
+
+    <string name="location">Location</string>
+    <string name="close">Close</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cant_move_next">No route available.</string>
+    <string name="out_of_track">You are out of the track</string>
+    <string name="coordinates_not_found">Coordinates not found for the next stop.</string>
+    <string name="selected_language_code" translatable="false">language_code</string>
+    <string name="selected_language_value" translatable="false">language_value</string>
+
+
+    <!--Dialog String-->
+    <string name="offroute_title">You Are Off Track </string>
+    <string name="are_you_sure_logout">Are you sure you want to logout?</string>
+    <string name="offroute_text">Lorem ipsum dolor sit amet, consectetur adip iscing elit, sed do eius mod tempor incididunt</string>
+    <string name="new_message_title">New Message</string>
+    <string name="logout">Logout</string>
+    <string name="off_route">Off-Route Alert</string>
+    <string name="you_are_out_off_track">You are out of the track</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="move_off_the_route">You have moved off the route. Please return to the route.</string>
+    <string name="new_message_text" translatable="false"></string>
+    <string name="attention_title">Attention</string>
+    <string name="attention_text" translatable="false"></string>
+
+    <string name="scan_qr">Scan QR Code</string>
+    <string name="enter_route_key">Or enter the route key</string>
+    <string name="route_key">Route Key</string>
+
+    <string name="auth_error">Login session expire. Please login again.</string>
+    <string name="no_internet_message">Please check your internet connection.</string>
+    <string name="you_msg_deleted">You deleted this message.</string>
+    <string name="noTokenDialogTitle">Error: no mapbox access token</string>
+    <string name="noTokenDialogBody">Please put your mapbox access token to res/values/mapbox_access_token.xml</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messages">Messages</string>
+    <string name="message">Message</string>
+    <string name="oldest">Oldest</string>
+    <string name="people_groups_messages">people, groups, messages...</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="reply">Reply</string>
+    <string name="newest">Newest</string>
+    <string name="send_a_message">Send a message</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="about_us">About Us</string>
+    <string name="term_amp_conditions"><![CDATA[Term & Conditions]]></string>
+    <string name="your_e_mail">Your E-Mail</string>
+    <string name="your_message">Your Message</string>
+    <string name="enter_your_message_here">Enter your message here...</string>
+    <string name="send_message">Send Message</string>
+    <string name="setting">Settings</string>
+    <string name="next">Next</string>
+    <string name="sample_document">Sample Document</string>
+    <string name="ready_for_request">ready for request</string>
+    <string name="fetch_route">Fetch Route</string>
+    <string name="fetch_routes">Fetch Routes</string>
+    <string name="stop_navigation">Stop Navigation</string>
+    <string name="start_navigation">Start Navigation</string>
+    <string name="next_location">Next \nLocation</string>
+    <string name="terms_conditions_message">The sky appears blue because of the scattering of sunlight by Earth\'s atmosphere. As sunlight enters the atmosphere, it encounters tiny molecules of gas and other particles in the air.  These particles scatter the light in all directions. However, blue light is scattered more than other colors because it travels in smaller, shorter waves. This is known as Rayleigh scattering.</string>
+    <string name="pickupRoutes">Pick Up Routes</string>
+    <string name="chooseRoute">or choose the pre planned route from the list below</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="contact_us">Contact Us</string>
+
+    <string name="start_chat">Start Chat</string>
+    <string name="lets_get_moving">Let\'s Get Moving!</string>
+    <string name="we_ve_planned_the_best_route_for_you_ntap_below_to_start_navigating">We\'ve planned the best route for you.\nTap below to start navigating!</string>
+    <string name="you">You</string>
+    <string name="today">Today</string>
+    <string name="unsent">Unsent</string>
+    <string name="seen">Seen</string>
+    <string name="meters">meters</string>
+    <string name="ok">OK</string>
+    <string name="user_not_found">User not found</string>
+    <string name="cancel">Cancel</string>
+    <string name="its_an_image">It\'s an image (jpg, png, etc.)</string>
+    <string name="its_a_video">It\'s a video (mp4, avi, etc.)</string>
+    <string name="its_a_pdf">It\'s a PDF file</string>
+    <string name="other_type">Other type</string>
+    <string name="email_required">Email is required</string>
+    <string name="enter_valid_email">Please enter valid email address.</string>
+    <string name="select_language">Please select a language</string>
+    <string name="access_location">We need access to your location to provide navigation services. Please enable location permission in settings.
+</string>
+    <string name="socket_not_connected">Socket is Not connected</string>
+    <string name="socket_connected">Socket is connected</string>
+    <string name="could_not_create_file">Couldn\'t create file for photo</string>
+    <string name="file_size_exceeds">File size exceeds 25 MB limit</string>
+    <string name="select_a_language">Select a language</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="your_name_length">Your name should contain atleast 3 characters</string>
+    <string name="please_enter_plate_number">Please enter plate number</string>
+    <string name="please_enter_auftrag_number">Please enter Contract number</string>
+    <string name="select_a_valid_language">Select a valid language</string>
+    <string name="time">11.15AM</string>
+    <string name="take_me_there">Take Me There</string>
+    <string name="time9_41">09:41 PM</string>
+    <string name="reached">Reached</string>
+    <string name="aboutUs_message">The sky appears blue because of the scattering of sunlight by Earth\'s atmosphere. As sunlight enters the atmosphere, it encounters tiny molecules of gas and other particles in the air.  These particles scatter the light in all directions. However, blue light is scattered more than other colors because it travels in smaller, shorter waves. This is known as Rayleigh scattering.</string>
+    <string name="dialog_message">You have reached your stop point.</string>
+    <string name="show_route">Show Route</string>
+    <string name="hide_route">Hide Route</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="notifications">Notifications</string>
+    <string name="fcm">FCM</string>
+    <string name="check_internet_connection">Please check your internet connection.</string>
+    <string name="qr_scan_result">QrScanResult</string>
+    <string name="please_enter_route_key">Please enter a route key</string>
+    <string name="user_canceled">User canceled</string>
+    <string name="missing_permission">Missing permission</string>
+    <string name="gallery_permission">Solvay would like to access your gallery</string>
+
+    <string name="fetching_token_failed">Fetching token failed</string>
+    <string name="firebase_not_initialized">Firebase not initialized</string>
+    <string name="error_getting_fcm_token">Error getting FCM token</string>
+
+
+    <string name="title">Notifications</string>
+    <string name="attention">Attention</string>
+    <string name="admin">admin</string>
+
+
+    <string name="notification_channel_name">SolvayAndroidNotificationChannel</string>
+    <string name="notification_channel_description">SolvayAndroidNotificationChannelDescription</string>
+    <string name="notification_detail">notificationDetail</string>
+    <string name="notification_message">message</string>
+    <string name="notification_description">description</string>
+    <string name="notification_type">type</string>
+    <string name="notification_sender">sender</string>
+    <string name="notification_sender_id">_id</string>
+    <string name="notification_sender_name">name</string>
+    <string name="notification_sender_is_online">isOnline</string>
+    <string name="notification_sender_image">image</string>
+
+    <!--New Strings-->
+    <string name="image">Image</string>
+    <string name="document">Document</string>
+    <string name="audio">Audio</string>
+    <string name="enter_email_address">Please enter email address.</string>
+    <string name="video">Video</string>
+    <string name="contract_no">Contract Number</string>
+    <string name="this_msg_deleted">This message has been deleted.</string>
+    <string name="proceed">Proceed</string>
+    <string name="change_langugage_alert_title">App Restart Required</string>
+    <string name="change_langugage_alert_text">Changing the language will restart the app to apply the new settings. Do you want to continue?</string>
+    <string name="back_online">Back online, You can continue using the app.</string>
+
+    <string name="move_back_dialog_title">Unsaved Changes</string>
+    <string name="move_back_dialog_text">You have unsaved changes. Are you sure you want to leave without saving?</string>
+    <string name="stay">Stay</string>
+    <string name="alert">Alert</string>
+    <string name="discard">Discard</string>
+    <string name="contract_number_edit_disabled">You can\'t change the contract number once it\'s set.</string>
+    <string name="already_logged_in">Your account has been logged into on another device.</string>
+    <string name="location_permissions_title">Location Permissions Required</string>
+    <string name="location_permissions_text">This app requires location permissions and GPS to function properly. Please enable them in Settings.</string>
+</resources>

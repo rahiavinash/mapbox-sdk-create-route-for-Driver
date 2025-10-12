@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/alert_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="@dimen/_20sdp"
+    android:background="@drawable/alert_error_background"
+    android:elevation="50dp">
+
+    <ImageView
+        android:id="@+id/alert_icon"
+        android:layout_width="@dimen/_25sdp"
+        android:layout_height="@dimen/_25sdp"
+        android:src="@drawable/ic_error"
+        android:layout_marginEnd="@dimen/_9sdp"
+        app:tint="@color/white" />
+
+    <TextView
+        android:id="@+id/alert_message"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/something_went_wrong"
+        android:textColor="@color/white"
+        android:fontFamily="@font/poppins_medium"
+        android:textSize="@dimen/_12sdp"
+        android:lineSpacingExtra="@dimen/_2sdp"/>
+
+    <ImageButton
+        android:id="@+id/alert_close"
+        android:layout_width="@dimen/_28sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_close_white"
+        android:contentDescription="@string/close"
+        android:padding="@dimen/_5sdp"
+        app:tint="@color/white" />
+</LinearLayout>

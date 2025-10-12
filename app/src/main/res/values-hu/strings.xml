@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert">Riasztás</string>
+    <string name="app_name">Solvay</string>
+    <string name="welcome">Üdvözöljük a Solvay alkalmazásban</string>
+    <string name="for_your_service">Szolgálatára</string>
+    <string name="language">Nyelv</string>
+    <string name="you_are_reached_your_start">Elérte a kezdőpontot.</string>
+    <string name="you_are_back_your_start">Visszatért az útvonalra.</string>
+    <string name="you_are_arrived">Megérkezett!</string>
+    <string name="your_name">Az Ön neve</string>
+    <string name="first_name">Keresztnév</string>
+    <string name="plate_number">Rendszám</string>
+    <string name="auftrag_number">Rendelésszám</string>
+    <string name="register">Regisztráció</string>
+    <string name="nextStop">Következő megálló</string>
+    <string name="start_nav">Navigáció indítása</string>
+    <string name="back">Vissza</string>
+    <string name="active_now">Most aktív</string>
+    <string name="start">Indítás</string>
+    <string name="save">Mentés</string>
+    <string name="ok">OK</string>
+    <string name="location">Hely</string>
+    <string name="close">Bezárás</string>
+    <string name="gallery">Galéria</string>
+    <string name="camera">Kamera</string>
+    <string name="open_settings">Beállítások megnyitása</string>
+    <string name="cant_move_next">Nincs elérhető útvonal.</string>
+    <string name="out_of_track">Letért az útvonalról</string>
+    <string name="coordinates_not_found">A következő megálló koordinátái nem találhatók.</string>
+
+    <!-- Dialog String -->
+    <string name="offroute_title">Letért az útvonalról</string>
+    <string name="are_you_sure_logout">Biztosan ki szeretne jelentkezni?</string>
+    <string name="offroute_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+    <string name="new_message_title">Új üzenet</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="off_route">Eltérés figyelmeztetés</string>
+    <string name="move_off_the_route">Letért az útvonalról. Kérjük, térjen vissza.</string>
+    <string name="new_message_text" translatable="false"></string>
+    <string name="attention_title">Figyelem</string>
+    <string name="attention_text" translatable="false"></string>
+
+    <string name="scan_qr">QR-kód beolvasása</string>
+    <string name="enter_route_key">Vagy adja meg az útvonal kulcsát</string>
+    <string name="route_key">Útvonalkulcs</string>
+
+    <string name="auth_error">A munkamenet lejárt. Kérjük, jelentkezzen be újra.</string>
+    <string name="no_internet_message">Ellenőrizze internetkapcsolatát.</string>
+    <string name="you_msg_deleted">Ön törölte ezt az üzenetet.</string>
+    <string name="noTokenDialogTitle">Hiba: Hiányzó Mapbox token</string>
+    <string name="noTokenDialogBody">Adja hozzá Mapbox tokenjét a res/values/mapbox_access_token.xml fájlba</string>
+    <string name="hello_blank_fragment">Helló üres fragmentum</string>
+    <string name="messages">Üzenetek</string>
+    <string name="oldest">Legrégebbi</string>
+    <string name="people_groups_messages">személyek, csoportok, üzenetek...</string>
+    <string name="copy">Másolás</string>
+    <string name="delete">Törlés</string>
+    <string name="reply">Válasz</string>
+    <string name="newest">Legújabb</string>
+    <string name="send_a_message">Üzenet küldése\n</string>
+    <string name="edit_profile">Profil szerkesztése</string>
+    <string name="about_us">Rólunk</string>
+    <string name="term_amp_conditions"><![CDATA[Feltételek és kikötések]]></string>
+    <string name="your_e_mail">Az Ön e-mail címe</string>
+    <string name="your_message">Az Ön üzenete</string>
+    <string name="enter_your_message_here">Írja be üzenetét ide...</string>
+    <string name="send_message">Üzenet küldése</string>
+    <string name="setting">Beállítás</string>
+    <string name="next">Következő</string>
+    <string name="sample_document">Minta dokumentum</string>
+    <string name="ready_for_request">Készen áll a kérésre</string>
+    <string name="fetch_route">Útvonal lekérése</string>
+    <string name="fetch_routes">Útvonalak lekérése</string>
+    <string name="stop_navigation">Navigáció leállítása</string>
+    <string name="start_navigation">Navigáció indítása</string>
+    <string name="next_location">Következő\nHely</string>
+    <string name="terms_conditions_message">Az ég kéknek tűnik, mert a Nap fénye szóródik a Föld légkörében. A fény a légkörbe érve molekulákkal és részecskékkel ütközik, amelyek szórják azt. A kék fény rövidebb hullámhossza miatt jobban szóródik. Ezt Rayleigh-szóródásnak nevezik.</string>
+    <string name="pickupRoutes">Felvételi útvonalak</string>
+    <string name="chooseRoute">vagy válasszon egy előre definiált útvonalat alább</string>
+    <string name="editProfile">Profil szerkesztése</string>
+    <string name="terms_conditions">Feltételek és kikötések</string>
+    <string name="contact_us">Kapcsolatfelvétel</string>
+
+    <string name="start_chat">Csevegés indítása</string>
+    <string name="lets_get_moving">Induljunk!</string>
+    <string name="we_ve_planned_the_best_route_for_you_ntap_below_to_start_navigating">Megterveztük a legjobb útvonalat.\nÉrintse meg az alábbi gombot a navigáció elindításához!</string>
+    <string name="you">Ön</string>
+    <string name="today">Ma</string>
+    <string name="unsent">Nem elküldött</string>
+    <string name="seen">Látta</string>
+    <string name="user_not_found">Felhasználó nem található</string>
+    <string name="cancel">Mégse</string>
+    <string name="its_an_image">Ez egy kép (jpg, png, stb.)</string>
+    <string name="its_a_video">Ez egy videó (mp4, avi, stb.)</string>
+    <string name="its_a_pdf">Ez egy PDF fájl</string>
+    <string name="other_type">Más típus</string>
+    <string name="email_required">Az e-mail kötelező</string>
+    <string name="enter_valid_email">Adjon meg érvényes e-mail címet</string>
+    <string name="select_language">Válasszon nyelvet</string>
+    <string name="access_location">Szükségünk van a helyadataira a navigációhoz. Kérjük, engedélyezze a beállításokban.</string>
+    <string name="socket_not_connected">A socket nincs csatlakoztatva</string>
+    <string name="socket_connected">A socket csatlakoztatva van</string>
+    <string name="could_not_create_file">Nem sikerült létrehozni a képfájlt</string>
+    <string name="file_size_exceeds">A fájlméret meghaladja a 25 MB-os korlátot</string>
+    <string name="select_a_language">Válasszon nyelvet</string>
+    <string name="please_enter_your_name">Kérjük, adja meg nevét</string>
+    <string name="please_enter_plate_number">Kérjük, adja meg a rendszámot</string>
+    <string name="please_enter_auftrag_number">Kérjük, adja meg a rendelési számot</string>
+    <string name="select_a_valid_language">Válasszon érvényes nyelvet</string>
+    <string name="time">11:15</string>
+    <string name="take_me_there">Vigyen oda</string>
+    <string name="time9_41">21:41</string>
+    <string name="reached">Megérkezett</string>
+    <string name="aboutUs_message">Az ég kéknek tűnik, mert a Nap fénye szóródik a Föld légkörében. A fény a légkörbe érve molekulákkal és részecskékkel ütközik, amelyek szórják azt. A kék fény rövidebb hullámhossza miatt jobban szóródik. Ezt Rayleigh-szóródásnak nevezik.</string>
+    <string name="dialog_message">Elérte a megállóhelyét.</string>
+    <string name="show_route">Útvonal megjelenítése</string>
+    <string name="hide_route">Útvonal elrejtése</string>
+    <string name="something_went_wrong">Valami hiba történt!</string>
+    <string name="notifications">Értesítések</string>
+    <string name="fcm">FCM</string>
+    <string name="check_internet_connection">Ellenőrizze az internetkapcsolatot.</string>
+    <string name="qr_scan_result">QR-kód beolvasásának eredménye</string>
+    <string name="please_enter_route_key">Adja meg az útvonal kulcsát</string>
+    <string name="user_canceled">A felhasználó megszakította</string>
+    <string name="missing_permission">Hiányzó engedély</string>
+    <string name="gallery_permission">A Solvay hozzáférést igényel a galériához</string>
+
+    <string name="fetching_token_failed">Token lekérése sikertelen</string>
+    <string name="firebase_not_initialized">A Firebase nincs inicializálva</string>
+    <string name="error_getting_fcm_token">Hiba az FCM token lekérésekor</string>
+
+    <string name="title">Értesítés</string>
+    <string name="attention">Figyelem</string>
+    <string name="admin">adminisztrátor</string>
+
+    <string name="notification_channel_name">SolvayAndroidNotificationChannel</string>
+    <string name="notification_channel_description">SolvayAndroidNotificationChannelDescription</string>
+    <string name="notification_detail">notificationDetail</string>
+    <string name="notification_message">message</string>
+    <string name="notification_description">description</string>
+    <string name="notification_type">type</string>
+    <string name="notification_sender">sender</string>
+    <string name="notification_sender_id">_id</string>
+    <string name="notification_sender_name">name</string>
+    <string name="notification_sender_is_online">isOnline</string>
+    <string name="notification_sender_image">image</string>
+    <string name="image">Kép</string>
+    <string name="document">Dokumentum</string>
+    <string name="audio">Hang</string>
+    <string name="enter_email_address">Kérjük, adja meg az e-mail címet.</string>
+    <string name="video">Videó</string>
+    <string name="contract_no">Szerződésszám</string>
+    <string name="this_msg_deleted">Ez az üzenet törölve lett.</string>
+    <string name="you_are_out_off_track">Letért az útvonalról</string>
+    <string name="copied">Vágólapra másolva</string>
+    <string name="your_name_length">A nevednek legalább 3 karakterből kell állnia</string>
+    <string name="message">Üzenetek</string>
+    <string name="proceed">Folytatás</string>
+    <string name="change_langugage_alert_title">Az alkalmazás újraindítása szükséges</string>
+    <string name="change_langugage_alert_text">A nyelv módosítása újraindítja az alkalmazást az új beállítások alkalmazásához. Szeretné folytatni?</string>
+    <string name="back_online">Újra online vagy, folytathatod az alkalmazás használatát.</string>
+    <string name="move_back_dialog_title">Nem mentett módosítások</string>
+    <string name="move_back_dialog_text">Nem mentett módosításai vannak. Biztosan kilép mentés nélkül?</string>
+    <string name="stay">Marad</string>
+    <string name="discard">Elvetés</string>
+    <string name="contract_number_edit_disabled">A szerződésszám beállítás után nem módosítható.</string>
+    <string name="already_logged_in">A fiókod egy másik eszközön be lett jelentkezve.</string>
+    <string name="meters">méter</string>
+    <string name="complete">Kész</string>
+    <string name="location_permissions_title">Helymeghatározási engedélyek szükségesek</string>
+    <string name="location_permissions_text">Az alkalmazás megfelelő működéséhez helymeghatározási engedélyekre és GPS-re van szükség. Kérjük, engedélyezze ezeket a Beállításokban.</string>
+
+</resources>
+
+

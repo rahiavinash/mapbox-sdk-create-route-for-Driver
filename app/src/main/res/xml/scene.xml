@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:motion="http://schemas.android.com/apk/res-auto"
+    xmlns:app="urn:oasis:names:tc:xliff:document:1.2">
+
+<!--    <Transition-->
+<!--        motion:constraintSetStart="@+id/collapsed"-->
+<!--        motion:constraintSetEnd="@+id/expanded"-->
+<!--        motion:duration="1000">-->
+
+<!--        <OnSwipe-->
+<!--            motion:touchAnchorId="@id/llDestination"-->
+<!--            motion:touchAnchorSide="bottom"-->
+<!--            motion:dragDirection="dragDown"-->
+<!--            motion:maxVelocity="5000"-->
+<!--            motion:maxAcceleration="2000" />-->
+<!--    </Transition>-->
+
+<!--    &lt;!&ndash; Collapsed State &ndash;&gt;-->
+<!--    <ConstraintSet android:id="@id/collapsed">-->
+<!--        <Constraint-->
+<!--            android:id="@id/llDestination"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="@id/straightLine"-->
+<!--            app:layout_constraintVertical_bias="1.0"/>-->
+<!--    </ConstraintSet>-->
+
+<!--    &lt;!&ndash; Expanded State &ndash;&gt;-->
+<!--    <ConstraintSet android:id="@id/expanded">-->
+<!--        <Constraint-->
+<!--            android:id="@id/llDestination"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            app:layout_constraintBottom_toBottomOf="parent"-->
+<!--            app:layout_constraintTop_toTopOf="parent"-->
+<!--            app:layout_constraintVertical_bias="0.3"/>-->
+<!--    </ConstraintSet>-->
+
+</MotionScene>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph"
+    app:restoreState="true"
+    app:startDestination="@id/turnByTurnNavigationFragment">
+
+    <fragment
+        android:id="@+id/turnByTurnNavigationFragment"
+        android:name="com.solvay.TurnByTurnNavigationFragment"
+        android:label="fragment_turn_by_turn_navigation"
+        tools:layout="@layout/fragment_turn_by_turn_navigation" />
+    <fragment
+        android:id="@+id/chatUserListFragment"
+        android:name="com.solvay.UI.chat.ChatUserListFragment"
+        android:label="fragment_chat_user_list"
+        tools:layout="@layout/fragment_chat_user_list" />
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.solvay.UI.chat.ChatFragment"
+        android:label="fragment_chat"
+        tools:layout="@layout/fragment_chat" />
+    <fragment
+        android:id="@+id/notificationsFragment"
+        android:name="com.solvay.UI.Notification.NotificationsFragment"
+        android:label="fragment_notifications"
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.solvay.UI.settings.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/newChatFragment"
+        android:name="com.solvay.UI.newChat.NewChatFragment"
+        android:label="fragment_new_chat"
+        tools:layout="@layout/fragment_new_chat" />
+    <fragment
+        android:id="@+id/editProfileFragment"
+        android:name="com.solvay.UI.settings.EditProfileFragment"
+        android:label="EditProfileFragment" />
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="com.solvay.UI.settings.AboutUsFragment"
+        android:label="AboutUsFragment" />
+    <fragment
+        android:id="@+id/termsAndConditionFragment"
+        android:name="com.solvay.UI.settings.TermsAndConditionFragment"
+        android:label="fragment_terms_and_condition"
+        tools:layout="@layout/fragment_terms_and_condition" />
+    <fragment
+        android:id="@+id/contactUsFragment"
+        android:name="com.solvay.UI.settings.ContactUsFragment"
+        android:label="ContactUsFragment" />
+    <fragment
+        android:id="@+id/showingAndVideoFragment"
+        android:name="com.solvay.UI.chat.ShowingAndVideoFragment"
+        android:label="ShowingAndVideoFragment" />
+
+
+</navigation>
