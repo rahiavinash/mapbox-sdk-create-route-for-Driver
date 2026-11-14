@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert">Alerte</string>
+    <string name="app_name">Solvay</string>
+    <string name="welcome">Bienvenue dans l\'application Solvay</string>
+    <string name="for_your_service">À votre service</string>
+    <string name="language">Langue</string>
+    <string name="you_are_reached_your_start">Vous êtes arrivé à votre point de départ.</string>
+    <string name="you_are_back_your_start">Vous êtes de retour sur l’itinéraire.</string>
+    <string name="you_are_arrived">Vous êtes arrivé !</string>
+    <string name="your_name">Votre nom</string>
+    <string name="first_name">Prénom</string>
+    <string name="plate_number">Numéro de plaque</string>
+    <string name="auftrag_number">Numéro de commande</string>
+    <string name="register">S\'enregistrer</string>
+    <string name="nextStop">Arrêt suivant</string>
+    <string name="start_nav">Démarrer la navigation</string>
+    <string name="back">Retour</string>
+    <string name="active_now">Actif maintenant</string>
+    <string name="start">Démarrer</string>
+    <string name="save">Enregistrer</string>
+    <string name="ok">OK</string>
+    <string name="location">Emplacement</string>
+    <string name="close">Fermer</string>
+    <string name="gallery">Galerie</string>
+    <string name="camera">Appareil photo</string>
+    <string name="open_settings">Ouvrir les paramètres</string>
+    <string name="cant_move_next">Aucune route disponible.</string>
+    <string name="out_of_track">Vous êtes hors de l’itinéraire</string>
+    <string name="coordinates_not_found">Coordonnées de l\'arrêt suivant introuvables.</string>
+
+    <!-- Dialog String -->
+    <string name="offroute_title">Hors de l’itinéraire</string>
+    <string name="are_you_sure_logout">Êtes-vous sûr de vouloir vous déconnecter ?</string>
+    <string name="offroute_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+    <string name="new_message_title">Nouveau message</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="off_route">Alerte de déviation</string>
+    <string name="move_off_the_route">Vous vous êtes écarté de l’itinéraire. Veuillez revenir en arrière.</string>
+    <string name="new_message_text" translatable="false"></string>
+    <string name="attention_title">Attention</string>
+    <string name="attention_text" translatable="false"></string>
+
+    <string name="scan_qr">Scanner le QR code</string>
+    <string name="enter_route_key">Ou entrer la clé de l’itinéraire</string>
+    <string name="route_key">Clé de l’itinéraire</string>
+
+    <string name="auth_error">Session expirée. Veuillez vous reconnecter.</string>
+    <string name="no_internet_message">Veuillez vérifier votre connexion Internet.</string>
+    <string name="you_msg_deleted">Vous avez supprimé ce message.</string>
+    <string name="noTokenDialogTitle">Erreur : jeton Mapbox manquant</string>
+    <string name="noTokenDialogBody">Ajoutez votre jeton Mapbox dans res/values/mapbox_access_token.xml</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="messages">Messages</string>
+    <string name="oldest">Les plus anciens</string>
+    <string name="people_groups_messages">personnes, groupes, messages...</string>
+    <string name="copy">Copier</string>
+    <string name="delete">Supprimer</string>
+    <string name="reply">Répondre</string>
+    <string name="newest">Les plus récents</string>
+    <string name="send_a_message">Envoyer un message\n</string>
+    <string name="edit_profile">Modifier le profil</string>
+    <string name="about_us">À propos de nous</string>
+    <string name="term_amp_conditions"><![CDATA[Termes et conditions]]></string>
+    <string name="your_e_mail">Votre e-mail</string>
+    <string name="your_message">Votre message</string>
+    <string name="enter_your_message_here">Entrez votre message ici...</string>
+    <string name="send_message">Envoyer le message</string>
+    <string name="setting">Paramètre</string>
+    <string name="next">Suivant</string>
+    <string name="sample_document">Document exemple</string>
+    <string name="ready_for_request">Prêt pour la demande</string>
+    <string name="fetch_route">Récupérer l’itinéraire</string>
+    <string name="fetch_routes">Récupérer les itinéraires</string>
+    <string name="stop_navigation">Arrêter la navigation</string>
+    <string name="start_navigation">Démarrer la navigation</string>
+    <string name="next_location">Prochaine \nPosition</string>
+    <string name="terms_conditions_message">Le ciel paraît bleu en raison de la diffusion de la lumière du soleil dans l\'atmosphère terrestre. Lorsque la lumière du soleil pénètre dans l’atmosphère, elle entre en collision avec de minuscules molécules et particules qui la diffusent. La lumière bleue est plus diffusée car elle a une longueur d’onde plus courte. Ce phénomène s’appelle la diffusion de Rayleigh.</string>
+    <string name="pickupRoutes">Itinéraires de collecte</string>
+    <string name="chooseRoute">ou choisissez un itinéraire programmé ci-dessous</string>
+    <string name="editProfile">Modifier le profil</string>
+    <string name="terms_conditions">Termes et conditions</string>
+    <string name="contact_us">Contactez-nous</string>
+
+    <string name="start_chat">Démarrer la discussion</string>
+    <string name="lets_get_moving">C’est parti !</string>
+    <string name="we_ve_planned_the_best_route_for_you_ntap_below_to_start_navigating">Nous avons planifié le meilleur itinéraire pour vous.\nAppuyez ci-dessous pour commencer la navigation !</string>
+    <string name="you">Vous</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="unsent">Non envoyé</string>
+    <string name="seen">Vu</string>
+    <string name="user_not_found">Utilisateur non trouvé</string>
+    <string name="cancel">Annuler</string>
+    <string name="its_an_image">C’est une image (jpg, png, etc.)</string>
+    <string name="its_a_video">C’est une vidéo (mp4, avi, etc.)</string>
+    <string name="its_a_pdf">C’est un fichier PDF</string>
+    <string name="other_type">Autre type</string>
+    <string name="email_required">Adresse e-mail requise</string>
+    <string name="enter_valid_email">Entrez une adresse e-mail valide</string>
+    <string name="select_language">Choisir la langue</string>
+    <string name="access_location">Nous avons besoin de votre position pour fournir la navigation. Veuillez l’activer dans les paramètres.</string>
+    <string name="socket_not_connected">Socket non connecté</string>
+    <string name="socket_connected">Socket connecté</string>
+    <string name="could_not_create_file">Impossible de créer le fichier image</string>
+    <string name="file_size_exceeds">La taille du fichier dépasse la limite de 25 Mo</string>
+    <string name="select_a_language">Sélectionnez une langue</string>
+    <string name="please_enter_your_name">Veuillez entrer votre nom</string>
+    <string name="please_enter_plate_number">Veuillez entrer le numéro de plaque</string>
+    <string name="please_enter_auftrag_number">Veuillez entrer le numéro de commande</string>
+    <string name="select_a_valid_language">Veuillez sélectionner une langue valide</string>
+    <string name="time">11:15</string>
+    <string name="take_me_there">Emmenez-moi là-bas</string>
+    <string name="time9_41">21:41</string>
+    <string name="reached">Atteint</string>
+    <string name="aboutUs_message">Le ciel paraît bleu en raison de la diffusion de la lumière du soleil dans l\'atmosphère terrestre. Lorsque la lumière du soleil pénètre dans l’atmosphère, elle entre en collision avec de minuscules molécules et particules qui la diffusent. La lumière bleue est plus diffusée car elle a une longueur d’onde plus courte. Ce phénomène s’appelle la diffusion de Rayleigh.</string>
+    <string name="dialog_message">Vous êtes arrivé à votre arrêt.</string>
+    <string name="show_route">Afficher l’itinéraire</string>
+    <string name="hide_route">Masquer l’itinéraire</string>
+    <string name="something_went_wrong">Une erreur s’est produite !</string>
+    <string name="notifications">Notifications</string>
+    <string name="fcm">FCM</string>
+    <string name="check_internet_connection">Veuillez vérifier votre connexion Internet.</string>
+    <string name="qr_scan_result">Résultat du scan QR</string>
+    <string name="please_enter_route_key">Veuillez entrer la clé de l’itinéraire</string>
+    <string name="user_canceled">Utilisateur annulé</string>
+    <string name="missing_permission">Autorisation manquante</string>
+    <string name="gallery_permission">Solvay souhaite accéder à votre galerie</string>
+
+    <string name="fetching_token_failed">Échec de la récupération du jeton</string>
+    <string name="firebase_not_initialized">Firebase n’est pas initialisé</string>
+    <string name="error_getting_fcm_token">Erreur lors de l\'obtention du jeton FCM</string>
+
+    <string name="title">Notification</string>
+    <string name="attention">Attention</string>
+    <string name="admin">administrateur</string>
+
+    <string name="notification_channel_name">SolvayAndroidNotificationChannel</string>
+    <string name="notification_channel_description">SolvayAndroidNotificationChannelDescription</string>
+    <string name="notification_detail">notificationDetail</string>
+    <string name="notification_message">message</string>
+    <string name="notification_description">description</string>
+    <string name="notification_type">type</string>
+    <string name="notification_sender">sender</string>
+    <string name="notification_sender_id">_id</string>
+    <string name="notification_sender_name">name</string>
+    <string name="notification_sender_is_online">isOnline</string>
+    <string name="notification_sender_image">image</string>
+    <string name="image">Image</string>
+    <string name="document">Document</string>
+    <string name="audio">Audio</string>
+    <string name="enter_email_address">Veuillez entrer l\'adresse e-mail.</string>
+    <string name="video">Vidéo</string>
+    <string name="contract_no">Numéro de contrat</string>
+    <string name="this_msg_deleted">Ce message a été supprimé.</string>
+    <string name="you_are_out_off_track">Vous êtes hors de la piste</string>
+    <string name="copied">Copié dans le presse-papiers</string>
+    <string name="your_name_length">Votre nom doit contenir au moins 3 caractères</string>
+    <string name="message">Message</string>
+    <string name="proceed">Continuer</string>
+    <string name="change_langugage_alert_title">Redémarrage de l\'application requis</string>
+    <string name="change_langugage_alert_text">Changer la langue redémarrera l\'application pour appliquer les nouveaux paramètres. Voulez-vous continuer ?</string>
+    <string name="back_online">De retour en ligne, vous pouvez continuer à utiliser l\'application.</string>
+
+    <string name="move_back_dialog_title">Modifications non enregistrées</string>
+    <string name="move_back_dialog_text">Vous avez des modifications non enregistrées. Voulez-vous vraiment quitter sans enregistrer ?</string>
+    <string name="stay">Rester</string>
+    <string name="discard">Ignorer</string>
+    <string name="contract_number_edit_disabled">Vous ne pouvez pas modifier le numéro de contrat une fois qu’il est défini.</string>
+    <string name="already_logged_in">Votre compte a été utilisé sur un autre appareil.</string>
+    <string name="meters">mètres</string>
+    <string name="complete">Terminé</string>
+    <string name="location_permissions_title">Autorisations de localisation requises</string>
+    <string name="location_permissions_text">Cette application nécessite des autorisations de localisation et le GPS pour fonctionner correctement. Veuillez les activer dans les Paramètres.</string>
+
+
+</resources>
+
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="white">#FFFFFF</color>
+  <color name="colorPrimary">#6200EE</color>
+  <color name="colorPrimaryDark">#3700B3</color>
+  <color name="colorAccent">#03DAC5</color>
+  <color name="background_color">#12151C</color>
+  <color name="text_color_primary">#F1F1F1</color>
+  <color name="text_color_secondary">#8B8B93</color>
+  <color name="dialog_text_color_secondary">#92959D</color>
+  <color name="editext_hint">#F1F1F1</color>
+  <color name="editext_hint_new">#B5B7BD</color>
+  <color name="transparent">#00FFFFFF</color>
+  <color name="transparent_2">#6A000000</color>
+  <color name="transparent_3">#99000000</color>
+  <color name="black">#000000</color>
+  <color name="button_color">#009DE1</color>
+  <color name="button_color_secondary">#D4D5D9</color>
+  <color name="button_color_translucent">#33009DE1</color>
+  <color name="red_location_pointer">#FF5252</color>
+  <color name="yellow_location_pointer">#FFED86</color>
+  <color name="hintColor">#B5B7BD</color>
+  <color name="grey_hintColor">#64646F</color>
+  <color name="button_text_color">#0B0C13</color>
+  <color name="grey_border_color">#33394A</color>
+  <color name="ediText_background_color">#F20B0C11</color>
+  <color name="dialog_background_color">#99010110</color>
+  <color name="ediText_background_color_new">#0B0C11</color>
+  <color name="ediText_background_color2">#F20F0F12</color>
+  <color name="card_notification_color">#E8000000</color>
+  <color name="card_notification_color2">#DD1E1D1D</color>
+
+  <color name="error_red">#FF5252</color>
+  <color name="dialog_white">#E6FFFFFF</color>
+  <color name="greyColor">#92959D</color>
+  <color name="success_green">#4CAF50</color>
+  <color name="app_background_color">#12151C</color>
+
+  <color name="light_grey">#5E636F</color>
+  <color name="borderColor">#0E0E12</color>
+  <color name="blue">#009DE1</color>
+
+  <color name="text_color_light_mode">#000000</color>
+  <color name="message_color_light_mode">#343434</color>
+</resources>

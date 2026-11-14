@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/clRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/notification_unseen_background"
+    android:padding="@dimen/_11sdp"
+    android:layout_marginTop="@dimen/_7sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/img_icon"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_marginStart="@dimen/_2sdp"
+        android:src="@drawable/chat_main_icon"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/llContent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:layout_marginEnd="@dimen/_27sdp"
+        app:layout_constraintEnd_toStartOf="@+id/txt_time"
+        app:layout_constraintStart_toEndOf="@+id/img_icon"
+        app:layout_constraintTop_toTopOf="parent">
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_semibold"
+            android:text="@string/new_message_title"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_11sdp"
+            android:includeFontPadding="false" />
+
+        <TextView
+            android:id="@+id/tvDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_medium"
+            android:text=""
+            android:layout_marginTop="@dimen/_2sdp"
+            android:includeFontPadding="false"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textColor="@color/dialog_text_color_secondary"
+            android:textSize="@dimen/_10sdp" />
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/txt_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_medium"
+        android:maxLines="1"
+        android:text="@string/time"
+        android:gravity="end"
+        android:layout_marginEnd="@dimen/_11sdp"
+        android:includeFontPadding="false"
+        android:textSize="@dimen/_9sdp"
+        android:textColor="@color/dialog_text_color_secondary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/llContent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/alert_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="@dimen/_20sdp"
+    android:background="@drawable/alert_success_background"
+    android:visibility="visible"
+    android:elevation="50dp">
+
+    <ImageView
+        android:id="@+id/alert_icon"
+        android:layout_width="@dimen/_18sdp"
+        android:layout_height="@dimen/_18sdp"
+        android:src="@drawable/ic_check"
+        android:layout_marginEnd="@dimen/_12sdp"/>
+
+    <TextView
+        android:id="@+id/alert_message"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text=""
+        android:includeFontPadding="false"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_11sdp"/>
+
+    <ImageButton
+        android:id="@+id/alert_close"
+        android:layout_width="@dimen/_18sdp"
+        android:layout_height="@dimen/_18sdp"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:src="@drawable/ic_close_white"
+        android:contentDescription="@string/close"/>
+
+</LinearLayout>

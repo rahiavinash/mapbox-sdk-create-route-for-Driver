@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489233795694",
+    "project_id": "trcuktracker",
+    "storage_bucket": "trcuktracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489233795694:android:9a95d90b14839bb599f47f",
+        "android_client_info": {
+          "package_name": "com.solvay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvDZVjP8VixSjuira3Nk4zVz6ZI-JHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489233795694:android:3e409929bd0a304b99f47f",
+        "android_client_info": {
+          "package_name": "com.solvay_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYvDZVjP8VixSjuira3Nk4zVz6ZI-JHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

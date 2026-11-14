@@ -1,0 +1,18 @@
+[
+  {"name": "German (Deutsch)", "value": "German", "code": "de"},
+  {"name": "English", "value": "English", "code": "en"},
+  {"name": "Polish (Polnisch)", "value": "Polish", "code": "pl"},
+  {"name": "Russian (Russisch)", "value": "Russian", "code": "ru"},
+  {"name": "Ukrainian (Ukrainisch)", "value": "Ukrainian", "code": "uk"},
+  {"name": "Czech (Tschechisch)", "value": "Czech", "code": "cs"},
+  {"name": "Hungarian (Ungarisch)", "value": "Hungarian", "code": "hu"},
+  {"name": "Slovak (Slowakisch)", "value": "Slovak", "code": "sk"},
+  {"name": "Slovenian (Slowenisch)", "value": "Slovenian", "code": "sl"},
+  {"name": "Croatian (Kroatisch)", "value": "Croatian", "code": "hr"},
+  {"name": "Bulgarian (Bulgarisch)", "value": "Bulgarian", "code": "bg"},
+  {"name": "Romanian (Rumänisch)", "value": "Romanian", "code": "ro"},
+  {"name": "Lithuanian (Litauisch)", "value": "Lithuanian", "code": "lt"},
+  {"name": "French (Französisch)", "value": "French", "code": "fr"},
+  {"name": "Spanish (Spanisch)", "value": "Spanish", "code": "es"},
+  {"name": "Italian (Italienisch)", "value": "Italian", "code": "it"}
+]

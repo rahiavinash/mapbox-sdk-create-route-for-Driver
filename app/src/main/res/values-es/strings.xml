@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alert">Alerta</string>
+    <string name="app_name">Solvay</string>
+    <string name="welcome">Bienvenido a la aplicación Solvay</string>
+    <string name="for_your_service">A su servicio</string>
+    <string name="language">Idioma</string>
+    <string name="you_are_reached_your_start">Has llegado a tu punto de inicio.</string>
+    <string name="you_are_back_your_start">Has vuelto a la ruta.</string>
+    <string name="you_are_arrived">¡Has llegado!</string>
+    <string name="your_name">Tu nombre</string>
+    <string name="first_name">Nombre</string>
+    <string name="plate_number">Matrícula</string>
+    <string name="auftrag_number">Número de pedido</string>
+    <string name="register">Registrarse</string>
+    <string name="nextStop">Siguiente parada</string>
+    <string name="start_nav">Iniciar navegación</string>
+    <string name="back">Atrás</string>
+    <string name="active_now">Activo ahora</string>
+    <string name="start">Inicio</string>
+    <string name="save">Guardar</string>
+    <string name="ok">OK</string>
+    <string name="location">Ubicación</string>
+    <string name="close">Cerrar</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="open_settings">Abrir configuración</string>
+    <string name="cant_move_next">No hay ruta disponible.</string>
+    <string name="out_of_track">Estás fuera de la ruta</string>
+    <string name="coordinates_not_found">No se encontraron las coordenadas de la próxima parada.</string>
+
+    <!--Dialog String-->
+    <string name="offroute_title">Fuera de la ruta</string>
+    <string name="are_you_sure_logout">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="offroute_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt</string>
+    <string name="new_message_title">Nuevo mensaje</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="off_route">Alerta de desvío</string>
+    <string name="move_off_the_route">Te has desviado de la ruta. Por favor, regresa.</string>
+    <string name="new_message_text" translatable="false"></string>
+    <string name="attention_title">Atención</string>
+    <string name="attention_text" translatable="false"></string>
+
+    <string name="scan_qr">Escanear código QR</string>
+    <string name="enter_route_key">O introducir clave de ruta</string>
+    <string name="route_key">Clave de ruta</string>
+
+    <string name="auth_error">Sesión caducada. Por favor, inicia sesión nuevamente.</string>
+    <string name="no_internet_message">Verifica tu conexión a Internet.</string>
+    <string name="you_msg_deleted">Has eliminado este mensaje.</string>
+    <string name="noTokenDialogTitle">Error: falta el token de Mapbox</string>
+    <string name="noTokenDialogBody">Agrega tu token de Mapbox en res/values/mapbox_access_token.xml</string>
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="messages">Mensajes</string>
+    <string name="oldest">Más antiguos</string>
+    <string name="people_groups_messages">personas, grupos, mensajes...</string>
+    <string name="copy">Copiar</string>
+    <string name="delete">Eliminar</string>
+    <string name="reply">Responder</string>
+    <string name="newest">Más recientes</string>
+    <string name="send_a_message">Enviar un mensaje\n</string>
+    <string name="edit_profile">Editar perfil</string>
+    <string name="about_us">Sobre nosotros</string>
+    <string name="term_amp_conditions"><![CDATA[Términos y condiciones]]></string>
+    <string name="your_e_mail">Tu correo electrónico</string>
+    <string name="your_message">Tu mensaje</string>
+    <string name="enter_your_message_here">Introduce tu mensaje aquí...</string>
+    <string name="send_message">Enviar mensaje</string>
+    <string name="setting">Configuración</string>
+    <string name="next">Siguiente</string>
+    <string name="sample_document">Documento de muestra</string>
+    <string name="ready_for_request">Listo para la solicitud</string>
+    <string name="fetch_route">Obtener ruta</string>
+    <string name="fetch_routes">Obtener rutas</string>
+    <string name="stop_navigation">Detener navegación</string>
+    <string name="start_navigation">Iniciar navegación</string>
+    <string name="next_location">Siguiente \nUbicación</string>
+    <string name="terms_conditions_message">El cielo parece azul debido a la dispersión de la luz solar en la atmósfera de la Tierra. Cuando la luz solar entra en la atmósfera, choca con pequeñas moléculas y partículas que la dispersan. La luz azul se dispersa más porque tiene una longitud de onda más corta. Este fenómeno se llama dispersión de Rayleigh.</string>
+    <string name="pickupRoutes">Rutas de recogida</string>
+    <string name="chooseRoute">o selecciona una ruta programada de la lista a continuación</string>
+    <string name="editProfile">Editar perfil</string>
+    <string name="terms_conditions">Términos y condiciones</string>
+    <string name="contact_us">Contáctanos</string>
+
+    <string name="start_chat">Iniciar chat</string>
+    <string name="lets_get_moving">¡Vamos allá!</string>
+    <string name="we_ve_planned_the_best_route_for_you_ntap_below_to_start_navigating">Hemos planeado la mejor ruta para ti.\n¡Toca abajo para empezar a navegar!</string>
+    <string name="you">Tú</string>
+    <string name="today">Hoy</string>
+    <string name="unsent">No enviado</string>
+    <string name="seen">Visto</string>
+    <string name="user_not_found">Usuario no encontrado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="its_an_image">Es una imagen (jpg, png, etc.)</string>
+    <string name="its_a_video">Es un video (mp4, avi, etc.)</string>
+    <string name="its_a_pdf">Es un archivo PDF</string>
+    <string name="other_type">Otro tipo</string>
+    <string name="email_required">Correo electrónico requerido</string>
+    <string name="enter_valid_email">Ingresa un correo válido</string>
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="access_location">Necesitamos acceso a tu ubicación para proporcionar navegación. Por favor, actívalo en configuración.</string>
+    <string name="socket_not_connected">Socket no conectado</string>
+    <string name="socket_connected">Socket conectado</string>
+    <string name="could_not_create_file">No se pudo crear el archivo de imagen</string>
+    <string name="file_size_exceeds">El tamaño del archivo excede el límite de 25 MB</string>
+    <string name="select_a_language">Selecciona un idioma</string>
+    <string name="please_enter_your_name">Por favor, introduce tu nombre</string>
+    <string name="please_enter_plate_number">Por favor, introduce la matrícula</string>
+    <string name="please_enter_auftrag_number">Por favor, introduce el número de pedido</string>
+    <string name="select_a_valid_language">Selecciona un idioma válido</string>
+    <string name="time">11:15</string>
+    <string name="take_me_there">Llévame allí</string>
+    <string name="time9_41">21:41</string>
+    <string name="reached">Alcanzado</string>
+    <string name="aboutUs_message">El cielo parece azul debido a la dispersión de la luz solar en la atmósfera de la Tierra. Cuando la luz solar entra en la atmósfera, choca con pequeñas moléculas y partículas que la dispersan. La luz azul se dispersa más porque tiene una longitud de onda más corta. Este fenómeno se llama dispersión de Rayleigh.</string>
+    <string name="dialog_message">Dosegli ste svojo postajo.</string>
+    <string name="show_route">Mostrar ruta</string>
+    <string name="hide_route">Ocultar ruta</string>
+    <string name="something_went_wrong">¡Algo salió mal!</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="fcm">FCM</string>
+    <string name="check_internet_connection">Verifica tu conexión a Internet.</string>
+    <string name="qr_scan_result">Resultado del escaneo QR</string>
+    <string name="please_enter_route_key">Por favor, introduce la clave de ruta</string>
+    <string name="user_canceled">El usuario canceló</string>
+    <string name="missing_permission">Permiso faltante</string>
+    <string name="gallery_permission">Solvay desea acceder a tu galería</string>
+
+    <string name="fetching_token_failed">Error al obtener el token</string>
+    <string name="firebase_not_initialized">Firebase no está inicializado</string>
+    <string name="error_getting_fcm_token">Error al obtener el token de FCM</string>
+
+    <string name="title">Notificación</string>
+    <string name="attention">Atención</string>
+    <string name="admin">administrador</string>
+
+    <string name="notification_channel_name">SolvayAndroidNotificationChannel</string>
+    <string name="notification_channel_description">SolvayAndroidNotificationChannelDescription</string>
+    <string name="notification_detail">notificationDetail</string>
+    <string name="notification_message">message</string>
+    <string name="notification_description">description</string>
+    <string name="notification_type">type</string>
+    <string name="notification_sender">sender</string>
+    <string name="notification_sender_id">_id</string>
+    <string name="notification_sender_name">name</string>
+    <string name="notification_sender_is_online">isOnline</string>
+    <string name="notification_sender_image">image</string>
+    <string name="image">Imagen</string>
+    <string name="document">Documento</string>
+    <string name="audio">Audio</string>
+    <string name="enter_email_address">Por favor, introduzca la dirección de correo electrónico.</string>
+    <string name="video">Vídeo</string>
+    <string name="contract_no">Número de contrato</string>
+    <string name="this_msg_deleted">Este mensaje ha sido eliminado.</string>
+    <string name="you_are_out_off_track">Estás fuera de la ruta</string>
+    <string name="copied">Copiado al portapapeles</string>
+    <string name="your_name_length">Tu nombre debe tener al menos 3 caracteres</string>
+    <string name="message">Mensaje</string>
+    <string name="proceed">Continuar</string>
+    <string name="change_langugage_alert_title">Se requiere reiniciar la aplicación</string>
+    <string name="change_langugage_alert_text">Cambiar el idioma reiniciará la aplicación para aplicar la nueva configuración. ¿Deseas continuar?</string>
+    <string name="back_online">De nuevo en línea, puedes seguir usando la aplicación.</string>
+    <string name="move_back_dialog_title">Cambios no guardados</string>
+    <string name="move_back_dialog_text">Tienes cambios sin guardar. ¿Estás seguro de que quieres salir sin guardar?</string>
+    <string name="stay">Permanecer</string>
+    <string name="discard">Descartar</string>
+    <string name="contract_number_edit_disabled">No puedes cambiar el número de contrato una vez establecido.</string>
+    <string name="already_logged_in">Tu cuenta ha iniciado sesión en otro dispositivo.</string>
+    <string name="meters">metros</string>
+    <string name="complete">Completado</string>
+    <string name="location_permissions_title">Se requieren permisos de ubicación</string>
+    <string name="location_permissions_text">Esta aplicación requiere permisos de ubicación y GPS para funcionar correctamente. Por favor, actívelos en Configuración.</string>
+
+</resources>
+
+

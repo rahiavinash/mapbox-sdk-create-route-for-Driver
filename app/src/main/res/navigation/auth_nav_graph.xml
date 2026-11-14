@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/auth_nav_graph"
+    app:startDestination="@id/languageSelectionFragment">
+
+    <fragment
+        android:id="@+id/languageSelectionFragment"
+        android:name="com.solvay.authentication.LanguageSelectionFragment"
+        android:label="fragment_language_selection"
+        tools:layout="@layout/fragment_language_selection" >
+        <action
+            android:id="@+id/action_languageSelectionFragment_to_registerFragment"
+            app:destination="@id/registerFragment" />
+        <action
+            android:id="@+id/action_languageSelectionFragment_to_languageListFragment"
+            app:destination="@id/languageListFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.solvay.authentication.RegisterFragment"
+        android:label="fragment_register"
+        tools:layout="@layout/fragment_register" >
+        <action
+            android:id="@+id/action_registerFragment_to_routeKeyFragment"
+            app:destination="@id/routeKeyFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/routeKeyFragment"
+        android:name="com.solvay.authentication.RouteKeyFragment"
+        android:label="fragment_route_key"
+        tools:layout="@layout/fragment_route_key" />
+
+    <fragment
+        android:id="@+id/languageListFragment"
+        android:name="com.solvay.authentication.LanguageListFragment"
+        android:label="fragment_language_list"
+        tools:layout="@layout/fragment_language_list" />
+    <fragment
+        android:id="@+id/QRCodeFragment3"
+        android:name="com.solvay.authentication.QRCodeFragment"
+        android:label="fragment_q_rcode"
+        tools:layout="@layout/fragment_q_rcode" />
+</navigation>
